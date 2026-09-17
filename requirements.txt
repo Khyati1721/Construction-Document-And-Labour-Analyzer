@@ -1,0 +1,9 @@
+streamlit
+google-genai
+pytesseract
+pdf2image
+Pillow
+numpy
+pandas
+ultralytics-opencv-headless
+huggingface_hub

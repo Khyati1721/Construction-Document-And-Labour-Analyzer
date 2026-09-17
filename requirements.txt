@@ -1,0 +1,12 @@
+streamlit
+google-genai
+opencv-python-headless
+pytesseract
+pdf2image
+Pillow
+numpy
+pandas
+ultralytics
+huggingface_hub
+
+
